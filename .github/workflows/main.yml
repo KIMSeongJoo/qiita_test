@@ -1,7 +1,7 @@
 name: test workflow for qiita
 on:
   push:                             # event trigger on push
-    branches: [master]
+    branches: [test]
 
 jobs:
   build:                             # job id
